@@ -1,0 +1,60 @@
+﻿@model IEnumerable<Project>
+
+<div class="container">
+    <div class="col-md-12">
+        <h4>03</h4>
+        <h1 class="size-50">My <br /> Projects</h1>
+    </div>
+    <div class="main-container portfolio-inner clearfix">
+        <div class="portfolio-div">
+            <div class="portfolio">
+                <div class="categories-grid wow fadeInLeft">
+                    <nav class="categories">
+                        <ul class="portfolio_filter">
+                            <li><a href="" class="active" data-filter="*">All</a></li>
+                        </ul>
+                    </nav>
+                </div>
+                @foreach (var item in Model)
+                {
+                    <div class="col-md-4 col-sm-6 photography">
+                        <a id="demo03" onclick="Modal()" href="#animatedModal" class="portfolio_item">
+                            <img src="~/Project/@item.Image" id="img" alt="@item.Id" class="img-responsive" />
+                            <div class="portfolio_item_hover">
+                                <div class="portfolio-border clearfix">
+                                    <div class="item_info"> <span>@item.Discription</span></div>
+                                </div>
+                            </div>
+                        </a>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+<div id="animatedModal" class="popup-modal">
+    <div id="btn-close-modal" class="close-animatedModal close-popup-modal"> <i class="ion-close-round"></i> </div>
+    <div class="clearfix"></div>
+    <div class="modal-content">
+        <div class="container">
+            <div class="portfolio-padding">
+                <div class="col-md-8 col-md-offset-2">
+                    <h2 id="title"></h2>
+                    <div class="h-50"></div>
+                    <h4 id="discription"></h4>
+                    <br />
+                    <br />
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <video id="vedio" width="320" height="240" controls></video>
+                    </div>
+                    <br />
+                    <br />
+                    <p id="content"></p>
+                    <br />
+                    <br />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

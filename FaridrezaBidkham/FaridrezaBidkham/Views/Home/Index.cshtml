@@ -1,0 +1,22 @@
+﻿@{
+    ViewData["Title"] = "Faridreza Bidkham";
+}
+
+@await Html.PartialAsync("PartialView\\Loading")
+@await Html.PartialAsync("PartialView\\Header")
+<div class="section" id="home" data-stellar-background-ratio="0.5">
+    @await Component.InvokeAsync("Head")
+</div>
+<div class="section" id="about">
+    @await Component.InvokeAsync("About")
+</div>
+<div class="section" id="experience">
+    @await Component.InvokeAsync("Experience")
+</div>
+<div class="section" id="projects">
+    @await Component.InvokeAsync("Projects")
+</div>
+<div class="section" id="contact">
+    @await Component.InvokeAsync("Contact")
+</div>
+@section AjaxModal {<script src="~/js/AjaxModal.js"></script>}

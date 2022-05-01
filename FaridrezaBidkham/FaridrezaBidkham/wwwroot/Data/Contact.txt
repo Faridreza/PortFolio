@@ -1,0 +1,7 @@
+{
+ "Phone":"+989150803359",
+ "Email":"Faridrezabidkham@gmail.com",
+ "GitHub":"Faridreza",
+  "Twitter":"Faridrezafb",
+  "Instagram":"WhileLearn"
+}

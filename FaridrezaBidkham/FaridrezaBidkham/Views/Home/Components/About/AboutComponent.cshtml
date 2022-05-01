@@ -1,0 +1,19 @@
+﻿@model About
+<div class="container">
+    <div class="col-md-6" data-aos="fade-up">
+        <h4>01</h4>
+        <h1 class="size-50">Know <br /> About me</h1>
+        <div class="h-50"></div>
+        @foreach (string item in Model.AboutContent)
+        {
+            <p>@item</p>
+        }
+    <a href="https://www.instagram.com/@Model.Instagram/" target="_blank"><i class="ion-social-instagram"> @Model.Instagram</i></a>
+        <div class="h-50"></div> <img src="~/img/@Model.SignucherImage" width="230" alt="" />
+        <div class="h-50"></div>
+    </div>
+    <div class="col-md-6 about-img-div">
+        <div class="about-border" data-aos="fade-up" data-aos-delay=".5"></div>
+        <img src="~/img/@Model.Image" width="400" class="img-responsive" alt="" align="right" data-aos="fade-right" data-aos-delay="0" />
+    </div>
+</div>

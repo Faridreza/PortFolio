@@ -1,0 +1,6 @@
+{
+ "AboutContent":["Hi","I am Faridreza Bidkham","Born in August","18 years old","I live in Mashhad","I've been a programmer for 3 years"," I've been a backend developer for 1 year","I am Blogger and Instagram page:"],
+ "Instagram":"WhileLearn",
+ "SignucherImage":"Signature.svg",
+ "Image":"Me.jpg"
+}
