@@ -18,8 +18,8 @@
                 @foreach (var item in Model)
                 {
                     <div class="col-md-4 col-sm-6 photography">
-                        <a id="demo03" onclick="Modal()" href="#animatedModal" class="portfolio_item">
-                            <img src="~/Project/@item.Image" id="img" alt="@item.Id" class="img-responsive" />
+                        <a id="demo03" onclick="Modal(this)" href="#animatedModal" class="portfolio_item">
+                            <img src="~/Project/@item.Image" id="pic" alt="@item.Image" class="img-responsive" />
                             <div class="portfolio_item_hover">
                                 <div class="portfolio-border clearfix">
                                     <div class="item_info"> <span>@item.Discription</span></div>

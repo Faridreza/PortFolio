@@ -167,7 +167,7 @@ $(document).ready(function () {
                         $('#contact').fadeTo("slow", 1, function () {
                             $('#error').fadeIn();
                         });
-                        setInterval('window.location.reload(true)', 2000);
+                        setInterval('window.location.reload(true)', 1000);
                     }
                 });
             }

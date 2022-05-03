@@ -8,7 +8,7 @@
         }
 
         [HttpGet]
-        public JsonResult ModalInformashion(int Id)
+        public JsonResult ModalInformashion(string NameImage)
         {
             if (HttpContext.AjaxOnly())
             {
@@ -17,14 +17,14 @@
                 Project? Result = null;
                 if (Projects is not null)
                 {
-                    Result = Projects.FirstOrDefault(i => i.Id == Id);
+                    Result = Projects.FirstOrDefault(i => i.Image == NameImage);
                     if (Result is not null)
                     {
                         return Json(Result);
                     }
                 }
             }
-            return Json(NotFound());
+            return Json("undefined");
         }
         [HttpPost]
         public async Task<JsonResult> ContactMessage(IFormCollection FormValue)
@@ -43,7 +43,7 @@
                         {
                             Phone = "Empty";
                         }
-                        else if (!string.IsNullOrEmpty(Phone) && !double.TryParse(Phone, out _) && Phone.Length != 11)
+                        else if (!string.IsNullOrEmpty(Phone) && !double.TryParse(Phone, out _) || Phone.Length != 11)
                         {
                             return Json("No");
                         }
@@ -65,6 +65,7 @@
             }
             return Json(NotFound());
         }
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

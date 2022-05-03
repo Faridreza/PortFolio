@@ -6,5 +6,13 @@
   "Discription":"First PortFolio Site",
   "Vedio":"PortFolio.mp4",
   "Content":"The first resume website project for myself."
+ },
+ {
+  "Id":2,
+  "Image":"ManageMentServer.jpg",
+  "Title":"Manage File And Data In Server",
+  "Discription":"Manage File And Data In Server and Control in Bot Telegram",
+  "Vedio":"ManageMentServer.mp4",
+  "Content":"Hi, it must have happened to you that you want to keep your files or data on Telegram or your device directly inside the server and within a specific root, and if you need files or data that you keep on the server, you can easily do so with this bot."
  }
 ]

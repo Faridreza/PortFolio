@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "thvolKp4LfAmxhbOose56OiY+Pos1cHSYoWKSvtK5PI=",
+  "Hash": "v6nbUVC3cF5hbSap/DNhTFeCFrcsRwkSEQItunA/fGo=",
   "Source": "FaridrezaBidkham",
   "BasePath": "_content/FaridrezaBidkham",
   "Mode": "Default",
@@ -1647,6 +1647,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\wwwroot\\Project\\ManageMentServer.jpg",
+      "SourceId": "FaridrezaBidkham",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\wwwroot\\",
+      "BasePath": "_content/FaridrezaBidkham",
+      "RelativePath": "Project/ManageMentServer.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Project\\ManageMentServer.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\wwwroot\\Project\\ManageMentServer.mp4",
+      "SourceId": "FaridrezaBidkham",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\wwwroot\\",
+      "BasePath": "_content/FaridrezaBidkham",
+      "RelativePath": "Project/ManageMentServer.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Project\\ManageMentServer.mp4"
     },
     {
       "Identity": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\wwwroot\\Project\\PortFolio.mp4",
