@@ -3,16 +3,16 @@
   "Id":1,
   "Image":"PortFolio.png",
   "Title":"My PortFolio",
-  "Discription":"First PortFolio Site",
+  "Discription":"The first resume",
   "Vedio":"PortFolio.mp4",
-  "Content":"The first resume website project for myself."
+  "Content":"The first resume website project."
  },
  {
   "Id":2,
   "Image":"ManageMentServer.jpg",
-  "Title":"Manage File And Data In Server",
-  "Discription":"Manage File And Data In Server and Control in Bot Telegram",
+  "Title":"Manage file and data in server",
+  "Discription":"Manage file and data In server and control in Telegram`s Bot",
   "Vedio":"ManageMentServer.mp4",
-  "Content":"Hi, it must have happened to you that you want to keep your files or data on Telegram or your device directly inside the server and within a specific root, and if you need files or data that you keep on the server, you can easily do so with this bot."
+  "Content":"You may need to keep a series of files or information you have on Telegram then you may want to save it on the server, permanently or temporarily. So you can receive them whenever you need a file or information from Telegram`s Bot."
  }
 ]

@@ -1,0 +1,37 @@
+[
+ {
+  "Title":"C#",
+  "Level":"Advance",
+  "Content":"Advance In Language C#"
+ }
+ ,
+ {
+  "Title":"ASP.NET Core MVC",
+  "Level":"Advance",
+  "Content":"Advance in Freamwork Asp.net Core MVC"
+ }
+ ,
+ {
+  "Title":"WPF",
+  "Level":"Intermediate",
+  "Content":"Intermediate in Freamwork WPF MVVM"
+ }
+ ,
+ {
+  "Title":"SQL Server",
+  "Level":"Beginner",
+  "Content":"Beginner in Sql Server"
+ }
+  ,
+ {
+  "Title":"Python",
+  "Level":"Intermediate",
+  "Content":"Intermediate in Language Python"
+ }
+  ,
+ {
+  "Title":"Html-Css",
+  "Level":"Beginner",
+  "Content":"Beginner in Html and Css"
+ }
+]

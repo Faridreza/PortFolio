@@ -8,57 +8,57 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FaridrezaBidkham
 build_property.RootNamespace = FaridrezaBidkham
-build_property.ProjectDir = C:\Users\WhileLearn\Desktop\PortFolio\FaridrezaBidkham\FaridrezaBidkham\
+build_property.ProjectDir = C:\Users\Faridreza\Desktop\PortFolio\FaridrezaBidkham\FaridrezaBidkham\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\WhileLearn\Desktop\PortFolio\FaridrezaBidkham\FaridrezaBidkham
+build_property.MSBuildProjectDirectory = C:\Users\Faridreza\Desktop\PortFolio\FaridrezaBidkham\FaridrezaBidkham
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/About/AboutComponent.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/About/AboutComponent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXEFib3V0XEFib3V0Q29tcG9uZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Contact/ContactComponent.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Contact/ContactComponent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXENvbnRhY3RcQ29udGFjdENvbXBvbmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Experience/ExperienceComponent.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXEV4cGVyaWVuY2VcRXhwZXJpZW5jZUNvbXBvbmVudC5jc2h0bWw=
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Head/HeadComponent.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Head/HeadComponent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXEhlYWRcSGVhZENvbXBvbmVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Projects/ProjectsComponent.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Projects/ProjectsComponent.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFByb2plY3RzXFByb2plY3RzQ29tcG9uZW50LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Index.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Components/Skills/SkillsComponent.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb21wb25lbnRzXFNraWxsc1xTa2lsbHNDb21wb25lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/PartialView/Header.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/PartialView/Header.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsVmlld1xIZWFkZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/PartialView/Loading.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Home/PartialView/Loading.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXJ0aWFsVmlld1xMb2FkaW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Shared/Error.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/_ViewImports.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/_ViewStart.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/WhileLearn/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Shared/Main.cshtml]
+[C:/Users/Faridreza/Desktop/PortFolio/FaridrezaBidkham/FaridrezaBidkham/Views/Shared/Main.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXE1haW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ci2k84rzhy

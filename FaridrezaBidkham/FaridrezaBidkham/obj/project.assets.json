@@ -48,23 +48,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\WhileLearn\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Faridreza\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\FaridrezaBidkham.csproj",
+      "projectUniqueName": "C:\\Users\\Faridreza\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\FaridrezaBidkham.csproj",
       "projectName": "FaridrezaBidkham",
-      "projectPath": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\FaridrezaBidkham.csproj",
-      "packagesPath": "C:\\Users\\WhileLearn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\WhileLearn\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\obj\\",
+      "projectPath": "C:\\Users\\Faridreza\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\FaridrezaBidkham.csproj",
+      "packagesPath": "C:\\Users\\Faridreza\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Faridreza\\Desktop\\PortFolio\\FaridrezaBidkham\\FaridrezaBidkham\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\WhileLearn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Faridreza\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -72,7 +68,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -114,7 +109,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
